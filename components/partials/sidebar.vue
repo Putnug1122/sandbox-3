@@ -53,6 +53,11 @@ export default {
           icon: 'fas fa-code',
           link: '/state-management',
         },
+        {
+          name: 'Sandbox 3',
+          icon: 'fas fa-code',
+          link: '/todo-list',
+        },
       ],
     }
   },
